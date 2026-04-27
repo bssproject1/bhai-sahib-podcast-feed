@@ -7,7 +7,8 @@
     <description>Gurbani, Sakhis and Katha by Bhai Sahib Singh — uplifting spiritual content rooted in Sikhi.</description>
     <link>https://www.BhaiSahibSingh.com</link>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 15:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:18:19 +0000</lastBuildDate>
+    <managingEditor>info@bhaisahibsingh.com (Bhai Sahib Singh)</managingEditor>
     <itunes:author>Bhai Sahib Singh</itunes:author>
     <itunes:summary>Gurbani, Sakhis and Katha by Bhai Sahib Singh — uplifting spiritual content rooted in Sikhi.</itunes:summary>
     <itunes:owner>
@@ -23,5 +24,19 @@
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>Why do we need to meditate daily?</title>
+      <description>Why is daily Nitnem non-negotiable? 🙏 Just like a borewell must dig deep to reach water, our daily prayers dig deep into our soul to cleanse it from within. Bani carries divine power — it removes negativity and writes peace into your destiny! ✨💧 Watch this powerful Q&amp;A to never miss your Nitnem again.
+
+Watch on YouTube: </description>
+      <enclosure url="https://archive.org/download/008-why-nitnem-everyday/008 - Why Nitnem Everyday?.mp4" length="683397871" type="video/mp4"/>
+      <guid isPermaLink="false">bss-manual-008 - Why Nitnem Eve</guid>
+      <pubDate>Mon, 27 Apr 2026 08:17:51 +0000</pubDate>
+      <link></link>
+      <itunes:title>Why do we need to meditate daily?</itunes:title>
+      <itunes:summary>Why is daily Nitnem non-negotiable? 🙏 Just like a borewell must dig deep to reach water, our daily prayers dig deep into our soul to cleanse it from within. Bani carries divine power — it removes negativity and writes peace into your destiny! ✨💧 Watch this powerful Q&amp;A to never miss your Nitnem again.</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
