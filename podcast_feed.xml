@@ -7,13 +7,21 @@
     <description>Gurbani, Sakhis and Katha by Bhai Sahib Singh — uplifting spiritual content rooted in Sikhi.</description>
     <link>https://www.BhaiSahibSingh.com</link>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 19:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:03:10 +0000</lastBuildDate>
     <itunes:author>Bhai Sahib Singh</itunes:author>
     <itunes:summary>Gurbani, Sakhis and Katha by Bhai Sahib Singh — uplifting spiritual content rooted in Sikhi.</itunes:summary>
     <itunes:owner>
       <itunes:name>Bhai Sahib Singh</itunes:name>
+      <itunes:email>info@bhaisahibsingh.com</itunes:email>
     </itunes:owner>
+    <image>
+      <url>https://bssproject1.github.io/bhai-sahib-podcast-feed/cover_art.jpg</url>
+      <title>Bhai Sahib Singh Canada Wale</title>
+      <link>https://www.BhaiSahibSingh.com</link>
+    </image>
+    <itunes:image href="https://bssproject1.github.io/bhai-sahib-podcast-feed/cover_art.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
+    
   </channel>
 </rss>
